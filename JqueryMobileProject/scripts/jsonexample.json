@@ -1,0 +1,17 @@
+{
+    "username": {
+        "password": "somestuff",
+        "acceptDisc" : false,
+        "firstName": "Bob",
+        "lastName": "Dole",
+        "birthDate": "",
+        "userMovieDetails": {
+            "totalWatchtime": 22,
+            "favGenre": "Action",
+            "favMovie": "The_Departed"
+        },
+        "timePerMovie": {
+            "movieName": "total watchtime"
+        }
+    }
+}
